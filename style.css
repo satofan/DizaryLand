@@ -1,0 +1,25 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(20,167,179,1) 0%, rgba(31,34,218,1) 100%);
+  }
+.titles{
+  color:black;
+}
+.donate_style{
+  text-align: center;
+  color: black;
+  width: 50px;
+  height: 240px;
+  padding-right: 100px;
+  background: #343cd9;
+  border-radius: 10px;
+}
+.buybutton{
+  color: black;
+  margin-left: 28px;
+  margin-top: -20px;
+  background: linear-gradient(90deg, rgba(19,217,233,1) 0%, rgba(48,58,194,1) 100%);
+  border-radius: 10px;
+  border: 0;
+  font-size: 30px;
+}
